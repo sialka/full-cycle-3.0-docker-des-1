@@ -8,13 +8,18 @@
 
 # Files
 
+```
 Dockerfile
 go.mod
 hello.go
 README.md
+```
 
 # Execução
 
+```bash
 $ docker pull sialka/fullcycle:latest
 $ docker run sialka/fullcycle
+Full Cycle Rocks!!
+```
 
