@@ -1,11 +1,10 @@
 # Full-Cycle 3.0 - Docker
 
-## 1º desafio
+## 1º Desafio
 
-- [ok] Criar app Go Lang para exibir a mensagem "Full Cycle Rocks!!"
-- [ok] Publicar imagem no docker hub
-- [ok] A imagem precisa ser menor que 2MB
-
+- [x] Criar app Go Lang para exibir a mensagem "Full Cycle Rocks!!"
+- [x] Publicar imagem no docker hub
+- [x] A imagem precisa ser menor que 2MB
 
 # Files
 
